@@ -1,0 +1,1 @@
+Hola, me llamo Álvaro y estoy haciendo la práctica que Jorge, mi profe de master de la asignatura de Machine Learning, mandó para el lunes de la semana que viene.
