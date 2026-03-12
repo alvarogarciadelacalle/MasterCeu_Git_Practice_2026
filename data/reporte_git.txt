@@ -1,0 +1,1 @@
+Reporte: He creado las 3 ramas, gestionado los archivos y abierto las PRs sin conflictos técnicos bloqueantes.
