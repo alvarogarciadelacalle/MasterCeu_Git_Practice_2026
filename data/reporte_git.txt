@@ -1,1 +1,23 @@
+Fase 1: Aislamiento (Bio)
+
+Creé la rama feature/bio-alvaro para trabajar sin afectar a los demás.
+
+Comando clave: git checkout -b.
+
+Fase 2 (Pelis)
+
+Aquí simulamos el trabajo concurrente. Volví a main sin hacer pull para forzar que mi copia local fuera distinta a la del servidor.
+
+Edité la línea 1 de peliculas_comunes.txt. Al subirlo, mi PR quedó lista para revisión.
+
+Nota sobre conflictos: Al abrir la PR, GitHub indicó que no había conflictos automáticos, lo que sugiere que mi cambio entró limpiamente en la versión actual de la rama destino.
+
+Fase 3 (Series)
+
+Volví a main y ejecuté git pull. Aquí vi cómo mi copia local se actualizó con los cambios de mis compañeros.
+
+Creé la carpeta series_alumnos y mi archivo personal.
+
+Finalicé subiendo este reporte para documentar todo el proceso.
+
 Reporte: He creado las 3 ramas, gestionado los archivos y abierto las PRs sin conflictos técnicos bloqueantes.
