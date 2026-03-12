@@ -2,8 +2,6 @@ Fase 1: Aislamiento (Bio)
 
 Creé la rama feature/bio-alvaro para trabajar sin afectar a los demás.
 
-Comando clave: git checkout -b.
-
 Fase 2 (Pelis)
 
 Aquí simulamos el trabajo concurrente. Volví a main sin hacer pull para forzar que mi copia local fuera distinta a la del servidor.
